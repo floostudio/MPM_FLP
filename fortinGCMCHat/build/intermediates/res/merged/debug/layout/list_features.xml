@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/linear1"
+    android:padding="10dp"
+    android:weightSum="2">
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/featureColumn"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="5dp"
+        android:textColor="@android:color/white"
+        android:textSize="15dp"
+        android:text="column"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="15dp"
+        android:layout_marginLeft="5dp"
+        android:textColor="@android:color/white"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/featureInfo"
+        android:text="info"/>
+
+
+</LinearLayout><!-- From: file:/Users/iqbal/Desktop/FortinGCMCHat_ANDROID%20STUDIO/fortinGCMCHat/src/main/res/layout/list_features.xml -->

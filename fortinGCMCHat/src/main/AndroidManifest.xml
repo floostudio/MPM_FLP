@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="chat.floo.mpmflp"
+    android:installLocation="preferExternal"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <permission
+        android:name="chat.floo.mpmflp.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="chat.floo.mpmflp.permission.C2D_MESSAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Splash"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateUnchanged" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name=".GcmBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+                <action android:name="com.google.android.c2dm.intent.GCM_RECEIVED_ACTION" />
+
+                <category android:name="chat.floo.mpmflp" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".AlarmReciever"
+            android:enabled="true"
+            android:permission="android.permission.RECEIVE_BOOT_COMPLETED" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name=".GcmMessageHandler" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".FBLogin"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateUnchanged" >
+        </activity>
+        <activity
+            android:name=".IndividualChat"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateUnchanged|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.facebook.LoginActivity"
+            android:label="Login"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/fb_app_id" />
+
+        <activity
+            android:name=".AllUsersActivity"
+            android:label="Friends"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateUnchanged" >
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="Chats"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".AddGroup"
+            android:label="Add Group"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".GroupChatActivity"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateUnchanged|stateHidden" >
+        </activity>
+        <activity
+            android:name=".UserProfile"
+            android:label="Profile" >
+        </activity>
+        <activity
+            android:name=".SettingsActivity"
+            android:label="Settings"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".GroupInfo"
+            android:label="Group Info"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateUnchanged|stateHidden" >
+        </activity>
+        <activity
+            android:name=".UpdateGroup"
+            android:label="@string/title_activity_update_group"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateUnchanged|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+        <activity
+            android:name=".BlockedUsers"
+            android:label="@string/title_activity_blocked_users"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateUnchanged|stateHidden" >
+        </activity>
+        <activity
+            android:name=".RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateUnchanged|stateHidden" >
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_activity_login"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateUnchanged|stateHidden" >
+        </activity>
+        <activity
+            android:name=".UpdateProfile"
+            android:label="@string/title_activity_update_profile"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateUnchanged|stateHidden" >
+        </activity>
+        <activity
+            android:name=".VideoPlayerActivity"
+            android:label="@string/title_activity_video_player"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".ProductPage"
+            android:label="@string/title_activity_product_page" >
+        </activity>
+        <activity
+            android:name=".ImagePopup"
+            android:label="@string/title_activity_image_popup"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity
+            android:name=".AnswerQuizActivity"
+            android:windowSoftInputMode="stateUnchanged|stateHidden|adjustPan"
+            android:label="@string/title_activity_quiz_answer" >
+        </activity>
+        <activity
+            android:name=".AnswerQuestionnaireActivity" >
+        </activity>
+        <activity
+            android:name=".AnswerTrainingActivity"
+            android:windowSoftInputMode="stateUnchanged|stateHidden|adjustPan" >
+        </activity>
+
+        <activity
+            android:name=".QuizResult"
+            android:label="@string/title_activity_quiz_result" >
+        </activity>
+        <activity
+            android:name=".ActivateUser"
+            android:label="@string/title_activity_activate_user" >
+        </activity>
+        <activity
+            android:name=".TrainingResult"
+            android:label="@string/title_activity_training_result" >
+        </activity>
+        <activity
+            android:name=".PostArticle"
+            android:windowSoftInputMode="stateUnchanged|stateHidden|adjustPan"
+            android:label="@string/title_activity_post_article" >
+        </activity>
+        <activity
+            android:name=".QuizBoard"
+            android:label="@string/title_activity_quiz_board" >
+        </activity>
+    </application>
+
+</manifest>

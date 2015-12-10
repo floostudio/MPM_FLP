@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="chat.floo.mpmflp.ProductPage">
+    <include layout="@layout/toolbar" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="100"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="40">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/productImage"/>
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/playtvc"
+                android:src="@drawable/video"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"/>
+        </RelativeLayout>
+        <android.support.v4.app.FragmentTabHost
+            android:id="@android:id/tabhost"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="60">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TabWidget
+                    android:id="@android:id/tabs"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0"/>
+
+                <FrameLayout
+                    android:id="@android:id/tabcontent"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="0"/>
+
+                <FrameLayout
+                    android:id="@+id/realtabcontent"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"/>
+
+            </LinearLayout>
+        </android.support.v4.app.FragmentTabHost>
+    </LinearLayout>
+</LinearLayout>
+<!-- From: file:/Users/iqbal/Desktop/FortinGCMCHat_ANDROID%20STUDIO/fortinGCMCHat/src/main/res/layout/fragment_product_info.xml -->

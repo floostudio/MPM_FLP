@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res"
+    android:layout_width="match_parent"
+    android:layout_height="125dp" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:background="@color/headercolor"/>
+        <!--android:src="@drawable/background_small"-->
+
+    <chat.floo.mpmflp.views.RoundedImageView
+        android:id="@+id/image"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/profile"
+        android:layout_margin="16dp" />
+
+    <TextView
+        android:id="@+id/txtname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/image"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/image"
+        android:paddingBottom="14dp"
+        android:paddingLeft="18dp"
+        android:text="Utpal"
+        android:textColor="#fff"
+        android:textSize="24dp" />
+
+
+</RelativeLayout><!-- From: file:/Users/iqbal/Desktop/FortinGCMCHat_ANDROID%20STUDIO/fortinGCMCHat/src/main/res/layout/header_navigation_drawer_1.xml -->

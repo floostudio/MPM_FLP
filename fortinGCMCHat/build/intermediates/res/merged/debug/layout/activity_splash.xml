@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/splashicon" />
+
+    <!--TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:text="Chat App"
+        android:textColor="@color/White"
+        android:textAppearance="?android:attr/textAppearanceLarge" /-->
+
+</RelativeLayout>
+<!-- From: file:/Users/iqbal/Desktop/FortinGCMCHat_ANDROID%20STUDIO/fortinGCMCHat/src/main/res/layout/activity_splash.xml -->
