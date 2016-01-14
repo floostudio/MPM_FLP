@@ -2,151 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/jars/classes.jar"
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.3.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="77f9593d979f4347344be233bd0d888315f79517">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-935d377ab198b81e1e527d28c963d3229e0d75eb.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/libs/httpclient-4.3.6.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/httpclient-4.3.6-98f9c25c734dfe271a4fec377cba96f054cb5c04.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="27775d59b16610ac76f1b83693fedd9520396332">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-3a162f582c64f4a4381903ae725e04519aa2e9bb.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-9c0dcdda9697a9df23725dce3af6b41fb273f3a4.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/libs/YouTubeAndroidPlayerApi.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-645d016dc8c95aeaaa2f7a28df67d056dbd2320e.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="71eda10e33212e44245524b5087366ff8d805825">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-1a158dfe77a8f674bd8aa7f7ece0c19b42873d18.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-3f826b6163f5c883752eb7c3d5f5895b7ede74a4.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-902e14aafe006ac0b6400f34614b0a7e4ef3da2a.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-2ec22946cba1b076fbf9f7b0960214206553ee45.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-eef7618b259f5d0e39c1dff79251eacb5424451c.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/FortinGCMCHat_ANDROID STUDIO/facebookSDK/unspecified/jars/libs/bolts-android-1.1.2.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-a1a4dbb63fd69f2d17ed3e27060e9300467e4840.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/FortinGCMCHat_ANDROID STUDIO/lib/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="26a8519337e4dd1a09263d3e4df0957a6fc8331b">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-f16cbedcf7db7fe5f14bb415446c1285e1972591.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-42fd51991be36b93787fb84c8e966f67f175b089.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/libs/httpcore-4.3.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/httpcore-4.3.3-f6a9e681b99f8bd5203c2803b906ef5264772247.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-6506ccdf00ac827e1a60236df5b4b1a7e78aaedf.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-5b8884ad38c9d504d222884f31378acdaeb89cb2.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-fdb7a28d40ce2fa818f14e138f37105bf9c1c936.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/FortinGCMCHat_ANDROID STUDIO/facebookSDK/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="802f43fbbdce204f813cf902367236aa8b46dfed">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-55af9ad20aaa35f174b78ea9ef54295d06afdd17.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-f05068e251c9d8efe557127b70d7af0f629c9ead.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-f404d97017dfc079b5da28b8115f542465cbfced.jar" />
-    </item>
-    <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/libs/httpmime-4.3.6.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="66a39a5e37d5da40fdad6176fc24ef4316e74702">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/httpmime-4.3.6-25f7ac49dc568039c2cf04c5c6616bfd2ac94a2e.jar" />
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-af994c0a0159ba8b5d2b29d0a9906090ff7fbd37.jar" />
     </item>
     <item
         jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.3.0/jars/classes.jar"
@@ -156,25 +16,32 @@
         <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-cd23f487e8ac3df67b35685ebbb0e9b2c203b28a.jar" />
     </item>
     <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.3.0/jars/classes.jar"
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.3.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-2a0a21c6ca9e45fcd4e8960e53acc4d15ad301ff.jar" />
+        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-eaeebc6a559b099c47e3719c8f7425c86bec92ad.jar" />
     </item>
     <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.3.0/jars/classes.jar"
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.3.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-04050298737e6935c806c32266d9e3a7f7609643.jar" />
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-b16baf5096613026f94bfc91b1bf1dcfd392d4b4.jar" />
     </item>
     <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/jars/classes.jar"
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-6299b7e46fd6f77872e40dc64711c8201d7524bf.jar" />
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-84b9ea1a6e99cf9cff46db1a30cf04ff79729abf.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-f404d97017dfc079b5da28b8115f542465cbfced.jar" />
     </item>
     <item
         jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/libs/universal-image-loader-1.9.3.jar"
@@ -184,25 +51,172 @@
         <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-b3420cd52098f824353e2f563aa974c8cadbf6b2.jar" />
     </item>
     <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.3.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-0041e4ff38c919e71400798959ac089566fe29de.jar" />
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-5e3f7d6ed7b30081b0c1faf096e70058f8c3ac78.jar" />
     </item>
     <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/libs/httpclient-4.3.6.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-8114ea4fd64a517a1999f3654bca1038ff4b24fe.jar" />
+        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/httpclient-4.3.6-98f9c25c734dfe271a4fec377cba96f054cb5c04.jar" />
     </item>
     <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.3.0/jars/classes.jar"
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/FortinGCMCHat_ANDROID STUDIO/lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="26a8519337e4dd1a09263d3e4df0957a6fc8331b">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-f16cbedcf7db7fe5f14bb415446c1285e1972591.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/MPM_FLP/lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d913f84ee1bb43d19884efc1b88e3d840d89751">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-05324b2eafadaa86dfc07ccbf82d91fc4e4a75f6.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-946224b6ea373d3d5a81031dcc0ecbaf622e490a.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-1929a359b886968c35e15145317c438b88b6de73.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-056231d25200b7cb358cf262d04dfe90340c2469.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-3f826b6163f5c883752eb7c3d5f5895b7ede74a4.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-6a9733941e8f2eaa740b6f55d3774c7d7039bfba.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-fdb7a28d40ce2fa818f14e138f37105bf9c1c936.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-bd1149ed91b343533f137f97824e02a9d724533c.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/libs/httpcore-4.3.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/httpcore-4.3.3-2cfe07dae9fa9239a3ee6d94999c87f5ddf0f2c5.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-0131a6648abe62a25e5e7e26318184678f3026ff.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-f05068e251c9d8efe557127b70d7af0f629c9ead.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.3.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-05277f0e681a9c4ac98f0d76ee7ea8001c50bddb.jar" />
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-3bffd2f68d9d75cedff58600fe6952239be0929f.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-b0b2378d240559d11532d2eb9ee26a7bf2fb8b06.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/libs/httpcore-4.3.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/httpcore-4.3.3-f6a9e681b99f8bd5203c2803b906ef5264772247.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-2a0a21c6ca9e45fcd4e8960e53acc4d15ad301ff.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-8d31d7517e24b043376ba5a5fdb8f44a4f9382bc.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-224848a60a14fdcdcfee0d49e4ad03ab65e86e20.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/libs/httpmime-4.3.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66a39a5e37d5da40fdad6176fc24ef4316e74702">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/httpmime-4.3.6-25f7ac49dc568039c2cf04c5c6616bfd2ac94a2e.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-2ec22946cba1b076fbf9f7b0960214206553ee45.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-126fbb2392039f10319edc37c41cca7604583de7.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-6e02fd694a29f63a1644d6efdaab237b5dfef6c0.jar" />
     </item>
     <item
         jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.3.0/jars/classes.jar"
@@ -212,18 +226,18 @@
         <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-9dbf9db450d69f39943938cefcdbd57bcf4f6201.jar" />
     </item>
     <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/libs/Shutterbug-1.0.0.jar"
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.3.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="a8cddf69c52e040ba2ba1dbf9cc9404b083bd351">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/Shutterbug-1.0.0-eb70325a199e9dc9cb0feb614cdc30c8b7915cb4.jar" />
+        sha1="eb576427887e497cd958a475475f9206e38dc314">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-ea6c33d23830446c2826448320a9e8c50cfef7bb.jar" />
     </item>
     <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/jars/classes.jar"
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/MPM_FLP/facebookSDK/unspecified/jars/libs/bolts-android-1.1.2.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-0197271a7b3f614797bc83783418335d97b80385.jar" />
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-1a0f69f84e8b0d07b0e2f8d9cb1d4888a06a5725.jar" />
     </item>
     <item
         jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.3.0/jars/classes.jar"
@@ -233,6 +247,34 @@
         <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-74222bbacb55879577f0d820310759c0d7f75fc7.jar" />
     </item>
     <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-6299b7e46fd6f77872e40dc64711c8201d7524bf.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/FortinGCMCHat_ANDROID STUDIO/facebookSDK/unspecified/jars/libs/bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-a1a4dbb63fd69f2d17ed3e27060e9300467e4840.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-f387dc373145a7eb8793b9538bf4de0e85beffec.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-0041e4ff38c919e71400798959ac089566fe29de.jar" />
+    </item>
+    <item
         jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -240,11 +282,123 @@
         <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-52a8bad228d92f36e521665bcfc843d255c1a60e.jar" />
     </item>
     <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.3.0/jars/classes.jar"
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-af994c0a0159ba8b5d2b29d0a9906090ff7fbd37.jar" />
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-55f0e1d0c624a5b8f30453e7e49e0aee717de48f.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-23427dfe1c96bdcd07a0f43b37c008d532c2a33e.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-902e14aafe006ac0b6400f34614b0a7e4ef3da2a.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-9c0dcdda9697a9df23725dce3af6b41fb273f3a4.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/libs/httpmime-4.3.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66a39a5e37d5da40fdad6176fc24ef4316e74702">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/httpmime-4.3.6-0d3a87fc58996eb5a43388d255d7010824ddc8a8.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-04050298737e6935c806c32266d9e3a7f7609643.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-7ab26d983b07a2d016dc0a46c472397b2355b4fe.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-16a042d798a4f278df6c34e2edb28c89614c59d8.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/libs/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/httpclient-4.3.6-e3bf7e9066e500e5c5e2385320b6b46b0ec78e01.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-5b8884ad38c9d504d222884f31378acdaeb89cb2.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-d43b8fa3d90930bf5f49e20613345f6fe2989508.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-5e5f377019d8f1c7b001f8ecc2d067c1e8e47587.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/MPM_FLP/facebookSDK/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="56ad7603d0c6c98b2dd7509a3d8f9d9e7154388a">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-de6cc7c101362c406c4330146b3b3e6e9143f02b.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-6506ccdf00ac827e1a60236df5b4b1a7e78aaedf.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-eef7618b259f5d0e39c1dff79251eacb5424451c.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-b89e4c7d0be7495d411666e035751153ac26ebfd.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/libs/Shutterbug-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a8cddf69c52e040ba2ba1dbf9cc9404b083bd351">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/Shutterbug-1.0.0-eb70325a199e9dc9cb0feb614cdc30c8b7915cb4.jar" />
     </item>
     <item
         jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
@@ -254,18 +408,123 @@
         <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-cfaba251e67ae9c6b4acd36cfe44450aed810f78.jar" />
     </item>
     <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.3.0/jars/classes.jar"
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/libs/Shutterbug-1.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-eaeebc6a559b099c47e3719c8f7425c86bec92ad.jar" />
+        sha1="a8cddf69c52e040ba2ba1dbf9cc9404b083bd351">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/Shutterbug-1.0.0-3a3f7e8fb504c1018a6d6fe0508c852ad1fa8125.jar" />
     </item>
     <item
-        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.3.0/jars/classes.jar"
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-abe7a9ba9b95f8c19ed74ee9a4d955236ba80aad.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-3a162f582c64f4a4381903ae725e04519aa2e9bb.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-8d10546e38ed9a4027f7f939e801e3d984f92540.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-1a158dfe77a8f674bd8aa7f7ece0c19b42873d18.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-56ada9d5001a9c026ec9dceb84675f449b63c136.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-645d016dc8c95aeaaa2f7a28df67d056dbd2320e.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-58d824753e282f034190493cf3d816f69f84b457.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-05277f0e681a9c4ac98f0d76ee7ea8001c50bddb.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/FortinGCMCHat_ANDROID STUDIO/facebookSDK/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="802f43fbbdce204f813cf902367236aa8b46dfed">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-55af9ad20aaa35f174b78ea9ef54295d06afdd17.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-42fd51991be36b93787fb84c8e966f67f175b089.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-398f7af12655f3639b536e66d78fac9e7b8dfa48.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0a1897426566e408a5c20a3d931f77d89771d07f">
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-fa4fbfe6e34921ea780e4bbfd2223c59bf39c009.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-8114ea4fd64a517a1999f3654bca1038ff4b24fe.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-935d377ab198b81e1e527d28c963d3229e0d75eb.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-0197271a7b3f614797bc83783418335d97b80385.jar" />
+    </item>
+    <item
+        jar="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.3.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="eb576427887e497cd958a475475f9206e38dc314">
-        <dex dex="/Users/iqbal/Desktop/FortinGCMCHat_ANDROID STUDIO/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-ea6c33d23830446c2826448320a9e8c50cfef7bb.jar" />
+        <dex dex="/Users/iqbal/Github Project/MPM_FLP/MPMFLP/build/intermediates/pre-dexed/debug/classes-36e8f35ac582b0835fa6534b0bc1a6a3daf7a460.jar" />
     </item>
 
 </items>
