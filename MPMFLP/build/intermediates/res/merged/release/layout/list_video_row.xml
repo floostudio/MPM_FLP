@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="10dp" >
+
+    <!--  ListRow Left sied Thumbnail image -->
+    <!--LinearLayout android:id="@+id/thumbnail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="5dp">
+
+        <ImageView
+            android:id="@+id/list_image"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/placeholder_image"/>
+
+    </LinearLayout-->
+
+    <com.google.android.youtube.player.YouTubeThumbnailView
+        android:id="@+id/videoThumbnail"
+        android:layout_marginRight="5dp"
+        android:layout_alignParentLeft="true"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/placeholder_video"/>
+    <!-- Title Of video/article-->
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/videoThumbnail"
+        android:layout_toRightOf="@+id/videoThumbnail"
+        android:text="This is The Title"
+        android:textColor="#040404"
+        android:typeface="sans"
+        android:textSize="17dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginEnd="20dp"
+        android:textStyle="bold"/>
+
+    <!-- upload time and Author/uploader Name -->
+    <TextView
+        android:id="@+id/uploadinfo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:textColor="#343434"
+        android:textSize="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="1dip"
+        android:layout_toRightOf="@+id/videoThumbnail"
+        android:text="upload 10-08-2015 | by me" />
+
+    <!-- Rightend Duration -->
+    <!--TextView
+        android:id="@+id/duration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/title"
+        android:gravity="right"
+        android:text="5:45"
+        android:layout_marginRight="5dip"
+        android:textSize="10dip"
+        android:textColor="#10bcc9"
+        android:textStyle="bold"/>
+
+    < Rightend Arrow -->
+    <ImageView android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/arrow"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"/>
+
+</RelativeLayout><!-- From: file:/Users/iqbal/Desktop/FortinGCMCHat_ANDROID%20STUDIO/fortinGCMCHat/src/main/res/layout/list_video_row.xml -->

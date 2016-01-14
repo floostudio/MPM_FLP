@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebView xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</WebView><!-- From: file:/Users/iqbal/Github%20Project/MPM_FLP/MPMFLP/src/main/res/layout/sop_content_webview.xml -->

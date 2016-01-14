@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FortinGCMCHat_ANDROID STUDIO.iml" filepath="$PROJECT_DIR$/FortinGCMCHat_ANDROID STUDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MPMFLP/MPMFLP.iml" filepath="$PROJECT_DIR$/MPMFLP/MPMFLP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MPM_FLP.iml" filepath="$PROJECT_DIR$/MPM_FLP.iml" />
       <module fileurl="file://$PROJECT_DIR$/facebookSDK/facebookSDK.iml" filepath="$PROJECT_DIR$/facebookSDK/facebookSDK.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fortinGCMCHat/fortinGCMCHat.iml" filepath="$PROJECT_DIR$/fortinGCMCHat/fortinGCMCHat.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
     </modules>
   </component>

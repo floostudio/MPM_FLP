@@ -1,5 +1,0 @@
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:state_empty="true" android:drawable="@drawable/arrow_down" />
-    <item android:state_expanded="true" android:drawable="@drawable/arrow"/>
-    <item android:drawable="@drawable/arrow_down"/>
-</selector><!-- From: file:/Users/iqbal/Desktop/FortinGCMCHat_ANDROID%20STUDIO/fortinGCMCHat/src/main/res/drawable/group_indicator.xml -->

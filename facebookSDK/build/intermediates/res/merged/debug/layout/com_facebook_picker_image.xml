@@ -22,4 +22,4 @@
     android:layout_height="50dip"
     android:layout_gravity="center_vertical"
     android:src="@drawable/com_facebook_profile_default_icon" />
-<!-- From: file:/Users/iqbal/Desktop/FortinGCMCHat_ANDROID%20STUDIO/facebookSDK/src/main/res/layout/com_facebook_picker_image.xml -->
+<!-- From: file:/Users/iqbal/Github%20Project/MPM_FLP/facebookSDK/src/main/res/layout/com_facebook_picker_image.xml -->

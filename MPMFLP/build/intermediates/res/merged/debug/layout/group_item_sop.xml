@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/headercolor"
+        android:textSize="17dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginEnd="15dp"
+        android:textStyle="bold"
+        android:id="@+id/categoryName"
+        android:text="category"/>
+    <ImageView
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:adjustViewBounds="true"
+        android:id="@+id/groupIndicator"
+        android:src="@drawable/arrow"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"/>
+
+</RelativeLayout><!-- From: file:/Users/iqbal/Github%20Project/MPM_FLP/MPMFLP/src/main/res/layout/group_item_sop.xml -->

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="Emojicon"><attr format="dimension" name="emojiconSize"/><attr format="integer" name="emojiconTextStart"/><attr format="integer" name="emojiconTextLength"/></declare-styleable>
-    <!-- From: file:/Users/iqbal/Desktop/FortinGCMCHat_ANDROID%20STUDIO/lib/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/Users/iqbal/Github%20Project/MPM_FLP/lib/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <dimen name="keyboard_height">250dp</dimen>
     <string name="app_name">Emojicon</string>

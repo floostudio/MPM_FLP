@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="YouTubeAndroidPlayerApi">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/fortinGCMCHat/libs/YouTubeAndroidPlayerApi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MPMFLP/libs/YouTubeAndroidPlayerApi.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

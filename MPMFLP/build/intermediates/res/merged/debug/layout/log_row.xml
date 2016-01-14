@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/message_text"
+        android:text="Administrator baru saja menambahkan artikel baru"
+        android:textColor="@android:color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/time"
+        android:text="2015-10-12 17:20:06"/>
+
+</LinearLayout><!-- From: file:/Users/iqbal/Github%20Project/MPM_FLP/MPMFLP/src/main/res/layout/log_row.xml -->
