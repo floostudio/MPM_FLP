@@ -1,8 +1,6 @@
 package chat.floo.mpmflp;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -12,8 +10,6 @@ import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.view.View.OnClickListener;
 import android.widget.TextView;
 import chat.floo.mpmflp.utils.ImageUtil;
 import chat.floo.mpmflp.views.RoundedImageView;

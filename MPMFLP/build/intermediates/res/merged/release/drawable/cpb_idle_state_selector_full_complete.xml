@@ -8,4 +8,4 @@
           android:color="@color/cpb_grey"/>
     <item android:state_enabled="true"
           android:color="@color/material_green_500"/>
-</selector><!-- From: file:/Users/iqbal/Desktop/FortinGCMCHat_ANDROID%20STUDIO/fortinGCMCHat/src/main/res/drawable/cpb_idle_state_selector_full_complete.xml -->
+</selector><!-- From: file:/Users/iqbal/Github%20Project/MPM_FLP_FLOO/MPMFLP/src/main/res/drawable/cpb_idle_state_selector_full_complete.xml -->

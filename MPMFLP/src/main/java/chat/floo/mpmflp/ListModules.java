@@ -1,6 +1,5 @@
 package chat.floo.mpmflp;
 
-import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
@@ -14,7 +13,6 @@ import android.widget.ListView;
 
 import org.json.JSONArray;
 import org.json.JSONException;
-import org.json.JSONObject;
 
 
 /**

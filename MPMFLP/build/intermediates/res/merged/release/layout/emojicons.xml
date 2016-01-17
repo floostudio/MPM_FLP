@@ -117,4 +117,4 @@
         android:layout_below="@id/emojis_tab"
         android:background="#8f8f8f"/>
 </RelativeLayout>
-<!-- From: file:/Users/iqbal/Desktop/FortinGCMCHat_ANDROID%20STUDIO/lib/src/main/res/layout/emojicons.xml --><!-- From: file:/Users/iqbal/Desktop/FortinGCMCHat_ANDROID%20STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/FortinGCMCHat_ANDROID%20STUDIO/lib/unspecified/res/layout/emojicons.xml -->
+<!-- From: file:/Users/iqbal/Github%20Project/MPM_FLP_FLOO/lib/src/main/res/layout/emojicons.xml --><!-- From: file:/Users/iqbal/Github%20Project/MPM_FLP_FLOO/MPMFLP/build/intermediates/exploded-aar/MPM_FLP_FLOO/lib/unspecified/res/layout/emojicons.xml -->

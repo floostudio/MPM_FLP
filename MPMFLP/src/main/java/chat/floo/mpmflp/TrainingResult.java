@@ -1,7 +1,6 @@
 package chat.floo.mpmflp;
 
 import android.content.Intent;
-import android.provider.ContactsContract;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;

@@ -1,16 +1,9 @@
 package chat.floo.mpmflp;
 
-import android.app.AlertDialog;
 import android.app.ProgressDialog;
-import android.media.MediaPlayer;
-import android.net.Uri;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.MediaController;
-import android.widget.VideoView;
 
 import com.google.android.youtube.player.YouTubeBaseActivity;
 import com.google.android.youtube.player.YouTubeInitializationResult;

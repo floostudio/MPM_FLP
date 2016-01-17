@@ -7,4 +7,4 @@
     <item android:state_selected="true" android:color="@color/wallet_bright_foreground_holo_light"/>
     <item android:color="@color/wallet_bright_foreground_holo_light"/> <!-- not selected -->
 </selector>
-<!-- From: file:/Users/iqbal/Desktop/FortinGCMCHat_ANDROID%20STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.3.0/res/color/wallet_primary_text_holo_light.xml -->
+<!-- From: file:/Users/iqbal/Github%20Project/MPM_FLP_FLOO/MPMFLP/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.3.0/res/color/wallet_primary_text_holo_light.xml -->

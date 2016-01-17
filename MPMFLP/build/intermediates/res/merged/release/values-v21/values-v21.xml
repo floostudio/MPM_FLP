@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/iqbal/Desktop/FortinGCMCHat_ANDROID%20STUDIO/fortinGCMCHat/src/main/res/values-v21/styles.xml -->
+    <!-- From: file:/Users/iqbal/Github%20Project/MPM_FLP_FLOO/MPMFLP/src/main/res/values-v21/styles.xml -->
     <eat-comment/>
-    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.NoActionBar">
         <item name="actionBarStyle">@style/ActionBarStyle</item>
-        <item name="windowActionBar">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
 
 	    <item name="colorPrimary">@color/main_color_500</item>
 	    <item name="colorPrimaryDark">@color/main_color_700</item>
     </style>
-    <!-- From: file:/Users/iqbal/Desktop/FortinGCMCHat_ANDROID%20STUDIO/fortinGCMCHat/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml -->
+    <!-- From: file:/Users/iqbal/Github%20Project/MPM_FLP_FLOO/MPMFLP/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance.Material"/>
     <style name="Base.TextAppearance.AppCompat.Body1" parent="android:TextAppearance.Material.Body1"/>

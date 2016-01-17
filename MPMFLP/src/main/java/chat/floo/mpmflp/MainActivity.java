@@ -17,10 +17,9 @@ import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBarDrawerToggle;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.view.Menu;
-import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -37,7 +36,7 @@ import chat.floo.mpmflp.views.RoundedImageView;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
 
 	private ListView mDrawerList;
 	private List<DrawerItem> mDrawerItems;
@@ -73,11 +72,11 @@ public class MainActivity extends ActionBarActivity {
 		if (getIntent().getAction().equals("search")) {
 			fragmentposition = 10;
 		}
-		if (getIntent().getAction().equals("newgroup")) {
-			fragmentposition = 12;
-		}
+		//if (getIntent().getAction().equals("newgroup")) {
+		//	fragmentposition = 12;
+		//}
 		if (getIntent().getAction().equals("settings")) {
-			fragmentposition = 13;
+			fragmentposition = 12;
 		}
 
 
@@ -267,7 +266,7 @@ public class MainActivity extends ActionBarActivity {
 		mDrawerItems.add(new DrawerItem(R.string.drawer_icon_search,R.string.drawer_title_search)); // search
 		mDrawerItems.add(new DrawerItem(R.string.drawer_icon_myfriends,R.string.drawer_title_myfriends)); // friends
 
-		mDrawerItems.add(new DrawerItem(R.string.drawer_icon_newgroup,R.string.drawer_title_newgroup)); // new group sementara dihilangkan
+		//mDrawerItems.add(new DrawerItem(R.string.drawer_icon_newgroup,R.string.drawer_title_newgroup)); // new group sementara dihilangkan
 		//mDrawerItems.add(new DrawerItem(R.string.drawer_icon_blockeduser,R.string.drawer_title_blockeduser));
 		mDrawerItems.add(new DrawerItem(R.string.drawer_icon_setting,R.string.drawer_title_settings)); // settings
 		mDrawerItems.add(new DrawerItem(R.string.drawer_icon_logout,R.string.drawer_title_logout));//logout
@@ -317,7 +316,7 @@ public class MainActivity extends ActionBarActivity {
 		if (fragmentposition < 1) {
 			return;
 		}
-		if(fragmentposition==14){
+		if(fragmentposition==13){
 			new logoutuser().execute();
 			return;
 		}
@@ -358,9 +357,9 @@ public class MainActivity extends ActionBarActivity {
 		} else if (fragmentposition == 11) {
 			DataManager.action = "friends";
 			fragment = AllUsersActivity.newInstance();
+		//} else if (fragmentposition == 12) {
+		//	fragment = AddGroup.newInstance();
 		} else if (fragmentposition == 12) {
-			fragment = AddGroup.newInstance();
-		} else if (fragmentposition == 13) {
 
 			fragment = SettingsActivity.newInstance();
 		}
