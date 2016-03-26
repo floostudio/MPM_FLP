@@ -26,7 +26,7 @@ import android.widget.Toast;
 import chat.floo.mpmflp.utils.ImageUtil;
 import chat.floo.mpmflp.views.RoundedImageView;
 
-@TargetApi(Build.VERSION_CODES.HONEYCOMB)
+@TargetApi(Build.VERSION_CODES.ICE_CREAM_SANDWICH)
 public class BlockedUsers extends Fragment {
 	
 	public static BlockedUsers newInstance() {

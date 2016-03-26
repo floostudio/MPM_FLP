@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MPMFLP/MPMFLP.iml" filepath="$PROJECT_DIR$/MPMFLP/MPMFLP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MPM_FLP_FLOO.iml" filepath="$PROJECT_DIR$/MPM_FLP_FLOO.iml" />
       <module fileurl="file://$PROJECT_DIR$/facebookSDK/facebookSDK.iml" filepath="$PROJECT_DIR$/facebookSDK/facebookSDK.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpm_flp.iml" filepath="$PROJECT_DIR$/mpm_flp.iml" />
     </modules>
   </component>
 </project>

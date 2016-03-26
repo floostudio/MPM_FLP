@@ -5,4 +5,4 @@
     android:duration="1200"
     android:startOffset="500"
     android:interpolator="@android:anim/accelerate_decelerate_interpolator" />
-<!-- From: file:/Users/iqbal/Github%20Project/MPM_FLP_FLOO/MPMFLP/src/main/res/anim/translate_top_to_center.xml -->
+<!-- From: file:/E:/Github%20Projects/mpm_flp/MPMFLP/src/main/res/anim/translate_top_to_center.xml -->

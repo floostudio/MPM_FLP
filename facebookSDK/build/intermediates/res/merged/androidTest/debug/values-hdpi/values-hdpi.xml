@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/iqbal/Github%20Project/MPM_FLP_FLOO/facebookSDK/build/intermediates/bundles/debug/res/values-hdpi/values-hdpi.xml -->
+    <!-- From: file:/E:/Github%20Projects/mpm_flp/facebookSDK/build/intermediates/bundles/debug/res/values-hdpi/values-hdpi.xml -->
     <eat-comment/>
     <dimen name="com_facebook_picker_divider_width">1px</dimen>
 </resources>

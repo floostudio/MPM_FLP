@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/iqbal/Github Project/MPM_FLP_FLOO/facebookSDK/src/main/assets"/></dataSet><dataSet config="release"><source path="/Users/iqbal/Github Project/MPM_FLP_FLOO/facebookSDK/src/release/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\Github Projects\mpm_flp\facebookSDK\src\main\assets"/></dataSet><dataSet config="release"><source path="E:\Github Projects\mpm_flp\facebookSDK\src\release\assets"/></dataSet></merger>

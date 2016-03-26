@@ -1,13 +1,16 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 21
-    buildToolsVersion "21.1.2"
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
 
     defaultConfig {
         applicationId "chat.floo.mpmflp"
-        minSdkVersion 11
-        targetSdkVersion 21
+        minSdkVersion 16
+        targetSdkVersion 23
+
+        //enabling multidex support
+        multiDexEnabled true
     }
 
     buildTypes {
@@ -16,8 +19,6 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
-
-
 
     packagingOptions {
         exclude 'META-INF/DEPENDENCIES'
@@ -33,14 +34,14 @@ android {
 dependencies {
     compile project(':facebookSDK')
     compile project(':lib')
-    compile 'com.android.support:support-v4:21.0.3'
+    compile 'com.android.support:support-v4:23.2.1'
     compile 'com.google.android.gms:play-services:+'
-    compile 'com.android.support:appcompat-v7:21.0.3'
+    compile 'com.android.support:appcompat-v7:23.2.1'
     compile files('libs/Shutterbug-1.0.0.jar')
     compile files('libs/httpclient-4.3.6.jar')
     compile files('libs/httpcore-4.3.3.jar')
     compile files('libs/httpmime-4.3.6.jar')
     compile files('libs/universal-image-loader-1.9.3.jar')
     compile files('libs/YouTubeAndroidPlayerApi.jar')
-
+    compile 'com.android.support:multidex:1.0.0'
 }
