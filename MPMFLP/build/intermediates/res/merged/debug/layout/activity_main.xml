@@ -23,4 +23,4 @@
             layout="@layout/list_view" />
     </android.support.v4.widget.DrawerLayout>
 
-</LinearLayout><!-- From: file:/E:/Github%20Projects/mpm_flp/MPMFLP/src/main/res/layout/activity_main.xml -->
+</LinearLayout>

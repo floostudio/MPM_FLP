@@ -23,4 +23,3 @@
     android:focusable="false"
     android:clickable="false"
     android:button="@drawable/com_facebook_button_check" />
-<!-- From: file:/E:/Github%20Projects/mpm_flp/facebookSDK/src/main/res/layout/com_facebook_picker_checkbox.xml -->

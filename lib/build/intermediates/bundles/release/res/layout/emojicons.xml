@@ -117,4 +117,3 @@
         android:layout_below="@id/emojis_tab"
         android:background="#8f8f8f"/>
 </RelativeLayout>
-<!-- From: file:/E:/Github%20Projects/mpm_flp/lib/src/main/res/layout/emojicons.xml -->

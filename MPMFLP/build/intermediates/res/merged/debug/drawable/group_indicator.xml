@@ -2,4 +2,4 @@
     <item android:state_empty="true" android:drawable="@drawable/arrow_down" />
     <item android:state_expanded="true" android:drawable="@drawable/arrow"/>
     <item android:drawable="@drawable/arrow_down"/>
-</selector><!-- From: file:/E:/Github%20Projects/mpm_flp/MPMFLP/src/main/res/drawable/group_indicator.xml -->
+</selector>

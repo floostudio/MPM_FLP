@@ -30,4 +30,3 @@
         android:drawable="@drawable/ic_emoji_recent_light_activated" />
     <item android:drawable="@drawable/ic_emoji_recent_light_normal" />
 </selector>
-<!-- From: file:/E:/Github%20Projects/mpm_flp/lib/src/main/res/drawable/ic_emoji_recent_light.xml --><!-- From: file:/E:/Github%20Projects/mpm_flp/lib/build/intermediates/bundles/debug/res/drawable/ic_emoji_recent_light.xml -->

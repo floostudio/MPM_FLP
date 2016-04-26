@@ -9,6 +9,8 @@ ADDED from E:\Github Projects\mpm_flp\MPMFLP\src\main\AndroidManifest.xml:2:1-22
 		INJECTED from E:\Github Projects\mpm_flp\MPMFLP\src\main\AndroidManifest.xml
 	android:versionName
 		ADDED from E:\Github Projects\mpm_flp\MPMFLP\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from E:\Github Projects\mpm_flp\MPMFLP\src\main\AndroidManifest.xml
+		INJECTED from E:\Github Projects\mpm_flp\MPMFLP\src\main\AndroidManifest.xml
 	android:versionCode
 		ADDED from E:\Github Projects\mpm_flp\MPMFLP\src\main\AndroidManifest.xml:5:5-28
 		INJECTED from E:\Github Projects\mpm_flp\MPMFLP\src\main\AndroidManifest.xml

@@ -6,4 +6,4 @@
     <item android:drawable="@color/headercolor" android:state_pressed="true"/>
     <item android:drawable="@android:color/transparent"/>
 
-</selector><!-- From: file:/E:/Github%20Projects/mpm_flp/MPMFLP/src/main/res/drawable/selector_background_full.xml -->
+</selector>

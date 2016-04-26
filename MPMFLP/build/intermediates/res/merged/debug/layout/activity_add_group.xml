@@ -77,4 +77,4 @@
         android:layout_centerHorizontal="true"
         android:gravity="center" >
     </LinearLayout>
-</LinearLayout><!-- From: file:/E:/Github%20Projects/mpm_flp/MPMFLP/src/main/res/layout/activity_add_group.xml -->
+</LinearLayout>

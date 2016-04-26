@@ -116,4 +116,4 @@
         android:textColor="@color/material_red_800"
         android:textSize="20sp" />
 
-</LinearLayout><!-- From: file:/E:/Github%20Projects/mpm_flp/MPMFLP/src/main/res/layout/dialog_row.xml -->
+</LinearLayout>

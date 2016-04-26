@@ -3,4 +3,4 @@
     <solid android:color="#cceeff" />
     <padding android:left="2dp" android:top="2dp" android:bottom="2dp" android:right="2dp" />
     <corners android:radius="1dp"/>
-</shape><!-- From: file:/E:/Github%20Projects/mpm_flp/MPMFLP/src/main/res/drawable/rounded_shape_from.xml -->
+</shape>

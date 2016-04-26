@@ -10,4 +10,4 @@
 	    android:layout_alignParentLeft="true"
 	    android:text="CheckBox" />
 
-</LinearLayout><!-- From: file:/E:/Github%20Projects/mpm_flp/MPMFLP/src/main/res/layout/activity_group_participants.xml -->
+</LinearLayout>

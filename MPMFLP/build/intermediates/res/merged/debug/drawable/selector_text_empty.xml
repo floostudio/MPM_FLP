@@ -5,4 +5,4 @@
     <item android:state_activated="true" android:color="@android:color/white"/>
     <item android:color="@color/main_color_grey_700"/>
 
-</selector><!-- From: file:/E:/Github%20Projects/mpm_flp/MPMFLP/src/main/res/drawable/selector_text_empty.xml -->
+</selector>
