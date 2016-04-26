@@ -224,7 +224,7 @@ public class MainActivity extends AppCompatActivity {
 
 				//String photourl = DataManager.url + profileurl;
 				String photourl = profileurl;
-
+				SSLCertificateHandler.nuke();
 				ImageUtil.displayImage(iv, photourl, null);
 
 			}
