@@ -18,7 +18,7 @@ public class Splash extends Activity implements AsyncResponse{
 
 
 	private boolean mIsBackButtonPressed;
-	private static final int SPLASH_DURATION = 2000; // 2 seconds
+	private static final int SPLASH_DURATION = 4000; // 2 seconds
 	SessionManager session;
 	MyHTTPGet requester;
 	String version;

@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "chat.floo.mpmflp"
-        minSdkVersion 16
+        minSdkVersion 21
         targetSdkVersion 23
 
         //enabling multidex support
@@ -32,7 +32,6 @@ android {
 }
 
 dependencies {
-    compile project(':facebookSDK')
     compile project(':lib')
     compile 'com.android.support:support-v4:23.2.1'
     compile 'com.google.android.gms:play-services:+'

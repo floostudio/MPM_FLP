@@ -136,7 +136,7 @@ public class LoginActivity extends Activity implements OnClickListener {
 		info1.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View v) {
-				etemail.setError("ID MPM");
+				etemail.setError("Please Fill with MPM ID");
 				etemail.requestFocus();
 			}
 		});

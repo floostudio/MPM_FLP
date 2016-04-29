@@ -90,17 +90,6 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="com_facebook_blue">#3B5998</color>
-    <color name="com_facebook_likeboxcountview_border_color">#6a7180</color>
-    <color name="com_facebook_likeboxcountview_text_color">#6a7180</color>
-    <color name="com_facebook_likebutton_text_color">#FFFFFF</color>
-    <color name="com_facebook_likeview_text_color">#6a7180</color>
-    <color name="com_facebook_loginview_text_color">#FFFFFF</color>
-    <color name="com_facebook_picker_search_bar_background">#f5f5f7</color>
-    <color name="com_facebook_picker_search_bar_text">#bcbdc2</color>
-    <color name="com_facebook_usersettingsfragment_connected_shadow_color">#000000</color>
-    <color name="com_facebook_usersettingsfragment_connected_text_color">#FFFFFF</color>
-    <color name="com_facebook_usersettingsfragment_not_connected_text_color">#A6AED7</color>
     <color name="common_action_bar_splitter">#d2d2d2</color>
     <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
     <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
@@ -510,12 +499,6 @@
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
     <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="appTheme"><enum name="holo_dark" value="0"/><enum name="holo_light" value="1"/></attr><attr format="enum" name="environment"><enum name="production" value="1"/><enum name="test" value="3"/><enum name="sandbox" value="0"/><enum name="strict_sandbox" value="2"/></attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode"><enum name="buyButton" value="1"/><enum name="selectionDetails" value="2"/></attr></declare-styleable>
     <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="dimension" name="buyButtonWidth"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="enum" name="buyButtonText"><enum name="buy_with" value="5"/><enum name="logo_only" value="6"/><enum name="donate_with" value="7"/><enum name="buy_with_google" value="1"/><enum name="buy_now" value="2"/><enum name="book_now" value="3"/><enum name="donate_with_google" value="4"/></attr><attr format="enum" name="buyButtonAppearance"><enum name="google_wallet_classic" value="1"/><enum name="google_wallet_grayscale" value="2"/><enum name="google_wallet_monochrome" value="3"/><enum name="android_pay_dark" value="4"/><enum name="android_pay_light" value="5"/><enum name="android_pay_light_with_border" value="6"/><enum name="classic" value="1"/><enum name="grayscale" value="2"/><enum name="monochrome" value="3"/></attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType"><enum name="google_wallet_classic" value="1"/><enum name="google_wallet_monochrome" value="2"/><enum name="android_pay" value="3"/><enum name="classic" value="1"/><enum name="monochrome" value="2"/></attr></declare-styleable>
-    <declare-styleable name="com_facebook_friend_picker_fragment"><attr format="boolean" name="multi_select"/></declare-styleable>
-    <declare-styleable name="com_facebook_like_view"><attr format="color" name="foreground_color"/><attr format="string" name="object_id"/><attr name="style"><enum name="standard" value="0"/><enum name="button" value="1"/><enum name="box_count" value="2"/></attr><attr name="auxiliary_view_position"><enum name="bottom" value="0"/><enum name="inline" value="1"/><enum name="top" value="2"/></attr><attr name="horizontal_alignment"><enum name="center" value="0"/><enum name="left" value="1"/><enum name="right" value="2"/></attr></declare-styleable>
-    <declare-styleable name="com_facebook_login_view"><attr format="boolean" name="confirm_logout"/><attr format="boolean" name="fetch_user_info"/><attr format="string" name="login_text"/><attr format="string" name="logout_text"/></declare-styleable>
-    <declare-styleable name="com_facebook_picker_fragment"><attr format="boolean" name="show_pictures"/><attr format="string" name="extra_fields"/><attr format="boolean" name="show_title_bar"/><attr format="string" name="title_text"/><attr format="string" name="done_button_text"/><attr format="reference" name="title_bar_background"/><attr format="reference" name="done_button_background"/></declare-styleable>
-    <declare-styleable name="com_facebook_place_picker_fragment"><attr format="integer" name="radius_in_meters"/><attr format="integer" name="results_limit"/><attr format="string" name="search_text"/><attr format="boolean" name="show_search_box"/></declare-styleable>
-    <declare-styleable name="com_facebook_profile_picture_view"><attr name="preset_size"><enum name="small" value="-2"/><enum name="normal" value="-3"/><enum name="large" value="-4"/></attr><attr format="boolean" name="is_cropped"/></declare-styleable>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
     <dimen name="abc_action_bar_default_padding_end_material">0dp</dimen>
@@ -585,34 +568,6 @@
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <dimen name="com_facebook_likeboxcountview_border_radius">3dp</dimen>
-    <dimen name="com_facebook_likeboxcountview_border_width">1dp</dimen>
-    <dimen name="com_facebook_likeboxcountview_caret_height">3dp</dimen>
-    <dimen name="com_facebook_likeboxcountview_caret_width">6dp</dimen>
-    <dimen name="com_facebook_likeboxcountview_text_padding">6dp</dimen>
-    <dimen name="com_facebook_likeboxcountview_text_size">11.0sp</dimen>
-    <dimen name="com_facebook_likebutton_compound_drawable_padding">8dp</dimen>
-    <dimen name="com_facebook_likebutton_padding_bottom">0dp</dimen>
-    <dimen name="com_facebook_likebutton_padding_left">8dp</dimen>
-    <dimen name="com_facebook_likebutton_padding_right">8dp</dimen>
-    <dimen name="com_facebook_likebutton_padding_top">0dp</dimen>
-    <dimen name="com_facebook_likebutton_text_size">13.0sp</dimen>
-    <dimen name="com_facebook_likeview_edge_padding">2dp</dimen>
-    <dimen name="com_facebook_likeview_internal_padding">6dp</dimen>
-    <dimen name="com_facebook_likeview_text_size">11.0sp</dimen>
-    <dimen name="com_facebook_loginview_compound_drawable_padding">12dp</dimen>
-    <dimen name="com_facebook_loginview_padding_bottom">12dp</dimen>
-    <dimen name="com_facebook_loginview_padding_left">12dip</dimen>
-    <dimen name="com_facebook_loginview_padding_right">16dp</dimen>
-    <dimen name="com_facebook_loginview_padding_top">12dp</dimen>
-    <dimen name="com_facebook_loginview_text_size">16.0sp</dimen>
-    <dimen name="com_facebook_picker_place_image_size">64dp</dimen>
-    <dimen name="com_facebook_profilepictureview_preset_size_large">180dp</dimen>
-    <dimen name="com_facebook_profilepictureview_preset_size_normal">100dp</dimen>
-    <dimen name="com_facebook_profilepictureview_preset_size_small">50dp</dimen>
-    <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
-    <dimen name="com_facebook_usersettingsfragment_profile_picture_height">64dp</dimen>
-    <dimen name="com_facebook_usersettingsfragment_profile_picture_width">64dp</dimen>
     <dimen name="cpb_stroke_width">4dp</dimen>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
@@ -636,7 +591,6 @@
     <dimen name="place_autocomplete_progress_horizontal_margin">16dp</dimen>
     <dimen name="place_autocomplete_progress_size">24dp</dimen>
     <dimen name="place_autocomplete_separator_start">72dp</dimen>
-    <drawable name="com_facebook_picker_default_separator_color">#33464c59</drawable>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
@@ -683,35 +637,6 @@
     <string name="cast_notification_connected_message">Connected to <ns1:g id="name">%1$s</ns1:g></string>
     <string name="cast_notification_connecting_message">Connecting to <ns1:g id="name">%1$s</ns1:g></string>
     <string name="cast_notification_disconnect">Disconnect</string>
-    <string name="com_facebook_choose_friends">Choose Friends</string>
-    <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
-    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
-    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
-    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
-    <string name="com_facebook_like_button_liked">Liked</string>
-    <string name="com_facebook_like_button_not_liked">Like</string>
-    <string name="com_facebook_loading">Loading...</string>
-    <string name="com_facebook_loginview_cancel_action">Cancel</string>
-    <string name="com_facebook_loginview_log_in_button">Log in with Facebook</string>
-    <string name="com_facebook_loginview_log_out_action">Log out</string>
-    <string name="com_facebook_loginview_log_out_button">Log out</string>
-    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
-    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
-    <string name="com_facebook_logo_content_description">Facebook Logo</string>
-    <string name="com_facebook_nearby">Nearby</string>
-    <string name="com_facebook_picker_done_button_text">Done</string>
-    <string name="com_facebook_placepicker_subtitle_catetory_only_format">%1$s</string>
-    <string name="com_facebook_placepicker_subtitle_format">%1$s • %2$,d were here</string>
-    <string name="com_facebook_placepicker_subtitle_were_here_only_format">%1$,d were here</string>
-    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
-    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
-    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
-    <string name="com_facebook_requesterror_relogin">Please log into this app again to reconnect your Facebook account.</string>
-    <string name="com_facebook_requesterror_web_login">Your Facebook account is locked. Please log into www.facebook.com to continue.</string>
-    <string name="com_facebook_tooltip_default">New! You\'re in control - choose what info you want to share with apps.</string>
-    <string name="com_facebook_usersettingsfragment_log_in_button">Log in…</string>
-    <string name="com_facebook_usersettingsfragment_logged_in">Logged in</string>
-    <string name="com_facebook_usersettingsfragment_not_logged_in">Not logged in</string>
     <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
@@ -2296,25 +2221,6 @@
         <item name="android:contentDescription">@string/mr_media_route_button_content_description</item>
         <item name="externalRouteEnabledDrawable">@drawable/mr_ic_media_route_mono_dark</item>
     </style>
-    <style name="com_facebook_loginview_default_style" parent="@android:style/Widget.Button">
-        <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:background">@drawable/com_facebook_button_blue</item>
-        <item name="android:textColor">@color/com_facebook_loginview_text_color</item>
-        <item name="android:textSize">@dimen/com_facebook_loginview_text_size</item>
-        <item name="android:textStyle">bold</item>
-        <item name="android:paddingLeft">@dimen/com_facebook_loginview_padding_left</item>
-        <item name="android:gravity">center</item>
-    </style>
-    <style name="com_facebook_loginview_silver_style" parent="@android:style/Widget.Button">
-        <item name="android:width">205dp</item>
-        <item name="android:height">44dp</item>
-        <item name="android:background">@drawable/com_facebook_loginbutton_silver</item>
-        <item name="android:textSize">18sp</item>
-        <item name="android:textStyle">bold</item>
-        <item name="android:textColor">#4B5164</item>
-        <item name="android:gravity">center</item>
-    </style>
     <style name="emojiDialog" parent="@android:style/Theme.Dialog">
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">fill_parent</item>
@@ -2324,13 +2230,5 @@
         <item name="android:windowBackground">@null</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsFloating">false</item>
-    </style>
-    <style name="tooltip_bubble_text">
-	    <item name="android:textColor">@android:color/white</item>
-	    <item name="android:gravity">left</item>
-	    <item name="android:textSize">12sp</item>
-	    <item name="android:shadowDy">-1</item>
-	    <item name="android:shadowRadius">0.25</item>
-	    <item name="android:shadowColor">#40000000</item>
     </style>
 </resources>
